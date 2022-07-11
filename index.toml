@@ -849,6 +849,10 @@ file = "config/xaeroworldmap.txt"
 hash = "bb30d2e7b9ffc803c20c32966294c385d6f479159646e1d317b64d5936e95e3f"
 
 [[files]]
+file = "kitoaken.github.io - Shortcut.lnk"
+hash = "14ed097e4d9c09be5742d4280c70f44f42bf188bf9faf9d9290d525cf5d9fca6"
+
+[[files]]
 file = "mods/OptiFine_1.18.2_HD_U_H7.jar.disabled"
 hash = "79264fa2994e78a48321abe75191162290dcb6e9e307287eee60e53ff8962a99"
 
