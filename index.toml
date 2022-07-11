@@ -34,11 +34,6 @@ hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "b34b776f533880d96779561ce366f446b4a8dfeb833c801e5d6c18f0b507463e"
-metafile = true
-
-[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
 metafile = true
