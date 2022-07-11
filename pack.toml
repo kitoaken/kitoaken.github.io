@@ -1,0 +1,11 @@
+name = "Create Forge"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ba524cbc6255c4f01d82e061e0c42cf37530f53196c71a3e18601292e0211633"
+
+[versions]
+forge = "40.1.60"
+minecraft = "1.18.2"
