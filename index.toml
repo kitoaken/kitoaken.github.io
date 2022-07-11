@@ -5,6 +5,10 @@ file = "Compile.bat"
 hash = "685ae40a066b60c03cf9407e81aeb59dd2da33703f5881fb9c006915859495db"
 
 [[files]]
+file = "Releases/Create Forge 1.18.zip"
+hash = "c74272f267e9d73c9d8cc0eaf804111cf470c584611a9c2ce77bd3212bed8b11"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
