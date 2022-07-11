@@ -34,6 +34,11 @@ hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "1d51e8b48cb324af04338e0af9e82fddb3559bd6abb5bbff125fe03047092ab0"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
 metafile = true
@@ -490,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d11326b837826d06340a2695d4d916635cfe2678761f1c839a4537b5ca3b223a"
+hash = "1f8cc9461ca4df22deffc40d785cfde26f4e04e1a2759601d4638d84ceaa8f38"
 metafile = true
 
 [[files]]
