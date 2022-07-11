@@ -565,7 +565,3 @@ metafile = true
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
 metafile = true
-
-[[files]]
-file = "yt.js"
-hash = "de50a87e8bc17e24fdf2105104e633b85c0a7982230df8ce00dc5ad32053c1f6"
