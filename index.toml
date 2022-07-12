@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surrounding-resurrected.pw.toml"
-hash = "107778471f68108e0809a909c66ca2a8e351b38d9da701a8d9146b7864dccd24"
+hash = "23b36f0a5abfbc24d9746c71303fa4b6c168d56c56d5fddaf2783f2380613681"
 metafile = true
 
 [[files]]
