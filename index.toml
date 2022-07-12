@@ -200,6 +200,11 @@ hash = "6e771804b2cecfc70ea19170b5adee270bb2ac2dc7e51beb570f892f3356d8d0"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-surrounding-resurrected.pw.toml"
+hash = "107778471f68108e0809a909c66ca2a8e351b38d9da701a8d9146b7864dccd24"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
 metafile = true
