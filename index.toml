@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "678df7998f941a280a54bb646072eedcaf1b91e1e4f73d1661e50238a7713216"
+hash = "4b790d3197511f0a343a90823d82e5874e0db1ee3f42368744701dd70d407e40"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "c9401dbeea3ef478851b2831e481da7049e9cee458fa7d2f367aec2efa88cb76"
+hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
 metafile = true
 
 [[files]]
@@ -290,8 +290,23 @@ hash = "eab8175203c0bb3bf6f6954e776e80e246459e0bfa8f688c0fed5233069fe0bc"
 metafile = true
 
 [[files]]
+file = "mods/immersive-fx.pw.toml"
+hash = "27af9a340bce90ef2e5bfe73085879d39079cbd9594566973e66ff23bdec016b"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "c676540cd553266dbba25b1ed91e9727e86d9218e1206829faaf0d7b9ee96db5"
+metafile = true
+
+[[files]]
+file = "mods/invmovecompats.pw.toml"
+hash = "e6e9a22cd6122b2b03a6f47d93357fdd1955b6d14dbe28795fdc4eeb4b964790"
 metafile = true
 
 [[files]]
@@ -456,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a80a572a03265ba57d40b36d732d909fb5878e7dd6db0e68cf3d1c790bfb8a0f"
+hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
 metafile = true
 
 [[files]]
