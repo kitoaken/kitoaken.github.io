@@ -379,6 +379,11 @@ hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "f1383277548e6dc2fc6ff7b60fd0cf847b523b5cd4c2c7157385f1f083ade418"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "078e90f9cde719dac4ef36a4e5513779a56b64080a03604b69c41876ed2f608f"
 metafile = true
@@ -414,6 +419,11 @@ hash = "fdd4fde15205dba2ef63825d9a648550ce4917e0297ae9bfe9ceced2b3bb8325"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "52b934cc8bcec1d915f70e1ee4981f5f3fd773f4d994f37acb22a8818bcd53f5"
+metafile = true
+
+[[files]]
 file = "mods/sapience.pw.toml"
 hash = "dec5a1ce4c2bf054e4bcf50e0e37cc7188e4540dd1853b7f34fef3b37ce04823"
 metafile = true
@@ -430,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "e29523e1e858e44c58d1a512999e632db6213dc806451625bdcc69e8d86b96b1"
+hash = "58d231643e856de62fd3c4c0250f568b2540ebba2a3d36fcb5b238b293acb0a1"
 metafile = true
 
 [[files]]
