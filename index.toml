@@ -160,11 +160,6 @@ hash = "2bd16e7347caef9518bfc453dc3e7129739b7d121071a98d61d9e3519e4f6914"
 metafile = true
 
 [[files]]
-file = "mods/create-alloyed.pw.toml"
-hash = "7bfca28c75f0d6c07a1ba5f19a5dbf96dd1aa5b1d63b60bccc8f48ff89811e0d"
-metafile = true
-
-[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "d582775ff539022bb3a928fc525aea57111dbfcb51b4b2788ed72deb4b109411"
 metafile = true
@@ -292,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "eab8175203c0bb3bf6f6954e776e80e246459e0bfa8f688c0fed5233069fe0bc"
-metafile = true
-
-[[files]]
-file = "mods/immersive-fx.pw.toml"
-hash = "27af9a340bce90ef2e5bfe73085879d39079cbd9594566973e66ff23bdec016b"
 metafile = true
 
 [[files]]
