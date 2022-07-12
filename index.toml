@@ -220,6 +220,11 @@ hash = "73d644b07a288484efb86cd033389a79a21664381932aa429cfd97913c4d91c9"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
+metafile = true
+
+[[files]]
 file = "mods/enlightened-end.pw.toml"
 hash = "7cc35cc276e4cfd8a57ceb365387de7b39a06e917bcf7a8dd585197c0a15bd82"
 metafile = true
@@ -392,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/mutil.pw.toml"
 hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
+metafile = true
+
+[[files]]
+file = "mods/nethers-exoticism.pw.toml"
+hash = "1eec2f38786e17d362ae5ec3027e057d49a3bd7b1f5e014752f585f24f1b6b1a"
 metafile = true
 
 [[files]]
