@@ -1,11 +1,11 @@
 name = "Create Forge"
-version = "1.8"
+version = "1.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "484edccaebed6f64c5b74c511bf2c868fbb08d0c2c90341fd46636d553384755"
+hash = "991ebb81e55aefbc8407d045dd527e76f7e9145258c0c40f850289d332aa5522"
 
 [versions]
 forge = "40.1.60"

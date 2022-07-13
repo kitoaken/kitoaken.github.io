@@ -360,6 +360,11 @@ hash = "556dd971e6d1f9e0548d0d200ef7995d3f0cb65e43170eccb33612b8fe16d83a"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
 metafile = true
@@ -416,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "521e82beee6a363d7038b4eb436de106f4ba9d4d8b6bc7f2bdfd44a44ac93c9a"
+hash = "705c1f5bbff2195bc12951e8c557c1c7144f1a51a80834d3acf2ba0a4bbe47e8"
 metafile = true
 
 [[files]]
