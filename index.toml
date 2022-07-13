@@ -405,6 +405,11 @@ hash = "1eec2f38786e17d362ae5ec3027e057d49a3bd7b1f5e014752f585f24f1b6b1a"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "7b92dd5ff3da1b9422d1eb4cc71a60d1aa0ed405417277fb638b2ac8885f84ba"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f1383277548e6dc2fc6ff7b60fd0cf847b523b5cd4c2c7157385f1f083ade418"
 metafile = true
@@ -412,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/paragliders.pw.toml"
 hash = "078e90f9cde719dac4ef36a4e5513779a56b64080a03604b69c41876ed2f608f"
+metafile = true
+
+[[files]]
+file = "mods/ping.pw.toml"
+hash = "bccb920749aaec398b62ce4d3352fd8ec42e5d1d9e01dd3f78e132e44262ddf7"
 metafile = true
 
 [[files]]
