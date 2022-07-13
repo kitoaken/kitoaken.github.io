@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b790d3197511f0a343a90823d82e5874e0db1ee3f42368744701dd70d407e40"
+hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
 metafile = true
 
 [[files]]
@@ -435,6 +435,11 @@ hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
+file = "mods/reauth.pw.toml"
+hash = "70869c737b04b1061434aba80089c3a2ed58e9902ccee86c7b147fabb71a31be"
+metafile = true
+
+[[files]]
 file = "mods/retail.pw.toml"
 hash = "fdd4fde15205dba2ef63825d9a648550ce4917e0297ae9bfe9ceced2b3bb8325"
 metafile = true
@@ -482,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+metafile = true
+
+[[files]]
+file = "mods/tetra-pak.pw.toml"
+hash = "0dd102f41d0e9217f10d8b1092637c2745a0bdad14cf61abe4fe2d60c7599e71"
 metafile = true
 
 [[files]]
