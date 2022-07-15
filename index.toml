@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Terralith_v2.2.1a - Custom.jar"
-hash = "17f4ddfb2949149144e43737e8010f88a747ccb35d1b8636c880027f0390570d"
+file = "mods/CopperOverhaul_MC1.18.2_v22.07.14re1.toml"
+hash = "89ece634e403be449b1abafe4649e236fd52c65869bef8e61767ee6888920b84"
+
+[[files]]
+file = "mods/Terralith_v2.2.1a_-_Custom.toml"
+hash = "10209f1766c19b9461564843cb3f4a92eb5532022193c5752e27729a1be34e3f"
 
 [[files]]
 file = "mods/additional-additions-forge.pw.toml"
@@ -150,11 +154,6 @@ hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
 metafile = true
 
 [[files]]
-file = "mods/copper-overhaul.pw.toml"
-hash = "5843a96b24b95326636111da1d0e3aef26f1f4db0c4211103a38069b50297582"
-metafile = true
-
-[[files]]
 file = "mods/corail-woodcutter.pw.toml"
 hash = "17e620228785ddae25aa64360815a3a81a117b0cca69374b2a30d0140327e8be"
 metafile = true
@@ -235,9 +234,8 @@ hash = "7cc35cc276e4cfd8a57ceb365387de7b39a06e917bcf7a8dd585197c0a15bd82"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
-metafile = true
+file = "mods/entityculling_forge_mc1.18-1.5.1.toml"
+hash = "484fe3092759ae37839d076d065a806902c194022198935a15f90980656e82cc"
 
 [[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
@@ -250,9 +248,8 @@ hash = "a843daf1cf0460ebc9e73b7ad003ad0c59707bd44b74c2fca6b4ea7bbc473643"
 metafile = true
 
 [[files]]
-file = "mods/evocation.pw.toml"
-hash = "1582ee17b5d480141754faf5aa0f46ae85f32b88c5540b48517623ba5f9eb1d6"
-metafile = true
+file = "mods/evocation_1.0.0_1.18.2_build3.toml"
+hash = "e1625a8fdb94169b96ddba2ef6fbc14ff157ea1b84c0059c7d8c0605d39b4a87"
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
@@ -378,6 +375,10 @@ metafile = true
 file = "mods/mo-potions.pw.toml"
 hash = "bea7465f4cc329c1a92d3937a8046d145bcc1c8ba5083751747b61d1a80f2d96"
 metafile = true
+
+[[files]]
+file = "mods/mo_potions_1.4.2_RELEASE+1.18.2MC.toml"
+hash = "631266757d20821c5221822cec15132fd61d2065164eef09643eca24c7c9e5c6"
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
@@ -515,11 +516,6 @@ hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
-metafile = true
-
-[[files]]
 file = "mods/tetra-pak.pw.toml"
 hash = "b3140ceb807fa7c2cb475760a25c39c7dd527a51089a716113343d7a2b5df2df"
 metafile = true
@@ -545,9 +541,8 @@ hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
 metafile = true
 
 [[files]]
-file = "mods/twigs.pw.toml"
-hash = "51b7ba6e4a7c58cbbd28cc2ab96aa12b448afc835bb96a834ca7233b71ab16b5"
-metafile = true
+file = "mods/twigs-forge-1.1.4-patch3+1.18.2.toml"
+hash = "6356e28edc609449d2f70ecb1d97ec7c94d21834bf2a5fb6b95e7b9348c19b77"
 
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
