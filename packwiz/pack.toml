@@ -1,11 +1,11 @@
 name = "CForge"
-version = "2.3"
+version = "2.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7cfb014cd79af1ad3342bebfd0d69c142ba50f3745dae4f9438abf64e6329524"
+hash = "8833384344bcf74b20a3f926386fd5e868e129d96fd1fe44e4c86574ad98c95b"
 
 [versions]
 forge = "40.1.60"
