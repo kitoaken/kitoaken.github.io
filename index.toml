@@ -110,6 +110,11 @@ hash = "7aafdfb2c9dc012eb279b1beae1628ecf969056b8c3939bd39c34ff35acfee44"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
@@ -146,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/copper-overhaul.pw.toml"
-hash = "eab569f7cf364ae765f06550a82efdd78d2a1092135d24bd07883ab90f9131d3"
+hash = "5843a96b24b95326636111da1d0e3aef26f1f4db0c4211103a38069b50297582"
 metafile = true
 
 [[files]]
@@ -161,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "d582775ff539022bb3a928fc525aea57111dbfcb51b4b2788ed72deb4b109411"
+hash = "4408f4667a2200114edd9b5ef70e6f24318e07bc01258a7ef05d5b952fc7570c"
 metafile = true
 
 [[files]]
@@ -401,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/nethers-exoticism.pw.toml"
-hash = "1eec2f38786e17d362ae5ec3027e057d49a3bd7b1f5e014752f585f24f1b6b1a"
+hash = "9ce241dd80cc7e01c0a2cbe672c372fc345572b0b93ff6bed20249f7bb29d2bb"
 metafile = true
 
 [[files]]
@@ -431,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "521e82beee6a363d7038b4eb436de106f4ba9d4d8b6bc7f2bdfd44a44ac93c9a"
+hash = "d91923955ce7a95bd76aff7b3c6aac93ba334b330d552bd66ab8dc4ae00f2c1e"
 metafile = true
 
 [[files]]
@@ -452,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/reauth.pw.toml"
 hash = "70869c737b04b1061434aba80089c3a2ed58e9902ccee86c7b147fabb71a31be"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
 
 [[files]]
@@ -481,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "e29523e1e858e44c58d1a512999e632db6213dc806451625bdcc69e8d86b96b1"
+hash = "58d231643e856de62fd3c4c0250f568b2540ebba2a3d36fcb5b238b293acb0a1"
 metafile = true
 
 [[files]]
@@ -491,12 +501,17 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
+hash = "971e34abcd3a01b7df13232691aa081cff74027d8f4ecbde41031b4774b86f34"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "43ee89cb0bc5b569bd804db7af32f128958ef292908014fe7673c1f147fae542"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
+hash = "b9deedfa78589f027f0a798de9916a2f813eb38c250d2af5a08071913b198870"
 metafile = true
 
 [[files]]
@@ -506,12 +521,17 @@ metafile = true
 
 [[files]]
 file = "mods/tetra-pak.pw.toml"
-hash = "0dd102f41d0e9217f10d8b1092637c2745a0bdad14cf61abe4fe2d60c7599e71"
+hash = "3bba99921dee690ac68511f827f54882c80d92189b019c310a8eaa498feac84c"
 metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
+metafile = true
+
+[[files]]
+file = "mods/the-conjurer.pw.toml"
+hash = "db357938fa95c7ba4f1ab89fc9c92cc584d0db684a6d49ca2ba6e318ab7d328d"
 metafile = true
 
 [[files]]
@@ -535,6 +555,11 @@ hash = "c033bea9c8ffb4f802e23ce08e38d8bbb5831be1df1e23c8381fd5f1ee52e706"
 metafile = true
 
 [[files]]
+file = "mods/valhelsia-structures.pw.toml"
+hash = "185590bcac52b454ad5fa6db3eec011ed088bca9eff21f0da6232f322b1e9eb9"
+metafile = true
+
+[[files]]
 file = "mods/village-employment.pw.toml"
 hash = "d609fd9352cf1dcc0814793062ddbb166486e3956c9038537fd11714c1c9132a"
 metafile = true
@@ -551,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1f8cc9461ca4df22deffc40d785cfde26f4e04e1a2759601d4638d84ceaa8f38"
+hash = "783a1e6b5f3a756dd9c4aa3ec50338d67a21943dca9ae25bf4c0ee2273015975"
 metafile = true
 
 [[files]]

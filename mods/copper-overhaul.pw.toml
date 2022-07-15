@@ -1,13 +1,13 @@
 name = "Copper Overhaul"
-filename = "CopperOverhaul-MC1.18.2-v22.06.28re1.jar"
+filename = "CopperOverhaul-MC1.18.2-v22.07.14re1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4f446969b087a6d3b60e5ca9e70a08b0e9a6afee"
+hash = "8397367cbcf88fd363d159df582df7054aa34640"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3852226
+file-id = 3874966
 project-id = 625123
