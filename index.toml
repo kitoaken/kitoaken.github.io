@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "d91923955ce7a95bd76aff7b3c6aac93ba334b330d552bd66ab8dc4ae00f2c1e"
+hash = "521e82beee6a363d7038b4eb436de106f4ba9d4d8b6bc7f2bdfd44a44ac93c9a"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "58d231643e856de62fd3c4c0250f568b2540ebba2a3d36fcb5b238b293acb0a1"
+hash = "e29523e1e858e44c58d1a512999e632db6213dc806451625bdcc69e8d86b96b1"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b9deedfa78589f027f0a798de9916a2f813eb38c250d2af5a08071913b198870"
+hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra-pak.pw.toml"
-hash = "3bba99921dee690ac68511f827f54882c80d92189b019c310a8eaa498feac84c"
+hash = "b3140ceb807fa7c2cb475760a25c39c7dd527a51089a716113343d7a2b5df2df"
 metafile = true
 
 [[files]]
