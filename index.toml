@@ -150,11 +150,6 @@ hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
 metafile = true
 
 [[files]]
-file = "mods/copper-overhaul.pw.toml"
-hash = "5843a96b24b95326636111da1d0e3aef26f1f4db0c4211103a38069b50297582"
-metafile = true
-
-[[files]]
 file = "mods/corail-woodcutter.pw.toml"
 hash = "17e620228785ddae25aa64360815a3a81a117b0cca69374b2a30d0140327e8be"
 metafile = true
