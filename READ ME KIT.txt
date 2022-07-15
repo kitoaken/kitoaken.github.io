@@ -1,0 +1,10 @@
+Update non-MultiMC mods:
+
+Download them in githost
+Repack
+Github push
+
+How to pack/repack
+Export pack from Curseforge (DO NOT INCLUDE MODS THAT CAN'T BE INSTALLED VIA CURSEFORGE)
+Drag and drop it onto the Pack shortcut
+Github push

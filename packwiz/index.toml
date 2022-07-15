@@ -5,62 +5,6 @@ file = "mods/CopperOverhaul_MC1.18.2_v22.07.14re1.toml"
 hash = "89ece634e403be449b1abafe4649e236fd52c65869bef8e61767ee6888920b84"
 
 [[files]]
-file = "mods/External Mods/CopperOverhaul_MC1.18.2_v22.07.14re1.jar"
-hash = "bd03937155826ccf996f5975b293e2cce056a009ae7fb7aca2c83a92d89c82ac"
-
-[[files]]
-file = "mods/External Mods/CopperOverhaul_MC1.18.2_v22.07.14re1.toml"
-hash = "0509829d2196f7edc3f466b694abe66e1b87ef260002758ec2259d0b79c07b83"
-
-[[files]]
-file = "mods/External Mods/Generate TOML.lnk"
-hash = "303b7808f7784ffd61d48ba178d62c65867971525f03730e63599f9f9368a0bf"
-
-[[files]]
-file = "mods/External Mods/Generate TOML.ps1"
-hash = "0f318493279f7d39acd30e998a3bdb51d22888d3f8e878e97dc6a3346a2161aa"
-
-[[files]]
-file = "mods/External Mods/HASH.bat"
-hash = "5c987ca8323f6b30fdda81944dc6f5ab449ee72f88df9b73537a31c9ce7d6df4"
-
-[[files]]
-file = "mods/External Mods/entityculling_forge_mc1.18-1.5.1.jar"
-hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
-
-[[files]]
-file = "mods/External Mods/entityculling_forge_mc1.18-1.5.1.toml"
-hash = "d3ee378a6eadafdd4da7f8fa637e33df35b994dfc54820981accf8f5e1e50406"
-
-[[files]]
-file = "mods/External Mods/evocation_1.0.0_1.18.2_build3.jar"
-hash = "7b044fbe2d305e935b769a2402429472cd4b1afdc267be1b791f90a290142cdb"
-
-[[files]]
-file = "mods/External Mods/evocation_1.0.0_1.18.2_build3.toml"
-hash = "1e720f33ce988ccb65ab38f02b848425c028fe79418cbfe788dc89e686f83506"
-
-[[files]]
-file = "mods/External Mods/githost - Shortcut.lnk"
-hash = "9785e486f29e929ae2af3ecdc92858e5659696a1ead0e796367fbb9061b628e3"
-
-[[files]]
-file = "mods/External Mods/mo_potions_1.4.2_RELEASE+1.18.2MC.jar"
-hash = "1c21f2e5ead44624ce6d2cb29a75ce3e5813b69a20024b17df820a97ba93828e"
-
-[[files]]
-file = "mods/External Mods/mo_potions_1.4.2_RELEASE+1.18.2MC.toml"
-hash = "3ee49c27da877e0edf6477d9aa3b9f7b0efaf77db73a45983bbb8294f160876c"
-
-[[files]]
-file = "mods/External Mods/twigs-forge-1.1.4-patch3+1.18.2.jar"
-hash = "0c446f8626230714b973d47773add211d43cd90a57526a0316a027f73741b762"
-
-[[files]]
-file = "mods/External Mods/twigs-forge-1.1.4-patch3+1.18.2.toml"
-hash = "12aae03ddfd8a0775388a9b1acd193cc7f090a718092109959aa3084c4d228de"
-
-[[files]]
 file = "mods/Terralith_v2.2.1a_-_Custom.toml"
 hash = "10209f1766c19b9461564843cb3f4a92eb5532022193c5752e27729a1be34e3f"
 
