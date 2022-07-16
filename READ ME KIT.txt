@@ -1,6 +1,7 @@
 Update non-MultiMC mods:
 
 Download them in githost
+MAKE SURE THE SERVER MODS HAVE THE EXACT SAME NAME AS THE GITHOST ONES
 Repack
 Github push
 

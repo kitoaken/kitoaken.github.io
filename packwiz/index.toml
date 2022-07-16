@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/CopperOverhaul_MC1.18.2_v22.07.14re1.toml"
-hash = "89ece634e403be449b1abafe4649e236fd52c65869bef8e61767ee6888920b84"
+hash = "1f073f770732e8e48cf67103916eed3e799b4bb241f042ca73520dff0e50c1cc"
+
+[[files]]
+file = "mods/Terralith_v2.2.1a - Custom.jar"
+hash = "17f4ddfb2949149144e43737e8010f88a747ccb35d1b8636c880027f0390570d"
 
 [[files]]
 file = "mods/Terralith_v2.2.1a_-_Custom.toml"
-hash = "10209f1766c19b9461564843cb3f4a92eb5532022193c5752e27729a1be34e3f"
+hash = "d313fc18a20965ac42342b9901d1bdfb3b637f4b10a210e65f9b210a391b16de"
 
 [[files]]
 file = "mods/additional-additions-forge.pw.toml"
@@ -235,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling_forge_mc1.18-1.5.1.toml"
-hash = "484fe3092759ae37839d076d065a806902c194022198935a15f90980656e82cc"
+hash = "21184e901e2e207b30b193f27d32673f752d7a6cca0859bcc7925f678d9a19a3"
 
 [[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
@@ -249,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/evocation_1.0.0_1.18.2_build3.toml"
-hash = "e1625a8fdb94169b96ddba2ef6fbc14ff157ea1b84c0059c7d8c0605d39b4a87"
+hash = "f5acedff9b847cfecfd2fc631134c02cdabf6466f4126b6afbcf217afc3e5336"
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
@@ -279,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
 
 [[files]]
@@ -373,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo_potions_1.4.2_RELEASE+1.18.2MC.toml"
-hash = "631266757d20821c5221822cec15132fd61d2065164eef09643eca24c7c9e5c6"
+hash = "beb7cb9f2b03a5d507e1a200d522d602b3eb2104671c577e3b33c56edd2223d0"
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
@@ -537,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/twigs-forge-1.1.4-patch3+1.18.2.toml"
-hash = "6356e28edc609449d2f70ecb1d97ec7c94d21834bf2a5fb6b95e7b9348c19b77"
+hash = "0d3d836cf5c07380c935030f6f79a47e26053d94f68f26884b0a0fc8fea8d5f4"
 
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
