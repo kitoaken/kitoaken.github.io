@@ -1,0 +1,13 @@
+name = "Unity: Extras"
+filename = "Unity-1.18.X-Extras-1.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1290ae6b8ecbb952ad91138fc57ee398aa07b77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3754945
+project-id = 397811

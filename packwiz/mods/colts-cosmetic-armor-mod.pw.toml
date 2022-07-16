@@ -1,0 +1,13 @@
+name = "Colt's Cosmetic Armor Mod"
+filename = "ColtCosmeticArmorMod-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cde00d07d38fafaf559bb70f7457d699f4add64d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3727611
+project-id = 468352

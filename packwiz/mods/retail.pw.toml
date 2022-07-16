@@ -1,0 +1,13 @@
+name = "Eric's Retail"
+filename = "Retail-mc1.18-forge-0.3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78b03f23bcb73f4de1f7ddebb934685bf6607d98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3665529
+project-id = 431323

@@ -1,0 +1,13 @@
+name = "Corail Woodcutter"
+filename = "corail_woodcutter-1.18.2-2.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb61d2fa8ab853a939a08f26b4b0b00263a697e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3819992
+project-id = 331983

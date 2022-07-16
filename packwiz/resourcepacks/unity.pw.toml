@@ -1,0 +1,13 @@
+name = "Unity"
+filename = "Unity-1.18.X-Base-2.4.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "574987d09736bd69d6b23751e83158e8db427a12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3667685
+project-id = 222097
