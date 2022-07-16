@@ -546,8 +546,8 @@ hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
 metafile = true
 
 [[files]]
-file = "mods/twigs-fabric-1.1.3-patch2+1.18.2.jar"
-hash = "d0fa6105da2c6003d585d3361073558c572ca64c7ce733fe5e9c2da8e1841ca9"
+file = "mods/twigs-forge-1.1.4-patch3+1.18.2.jar"
+hash = "0c446f8626230714b973d47773add211d43cd90a57526a0316a027f73741b762"
 
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
