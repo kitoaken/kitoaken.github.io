@@ -1,13 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/CopperOverhaul.MC1.18.2.v22.07.14re1.pw.toml"
-hash = "0892a120d645e328c3a5a9b828b45f4b2ffcb2d782e5f83cf0be4e15da1a7d95"
+file = "mods/CopperOverhaul_MC1.18.2_v22.07.14re1.pw.toml"
+hash = "dd5c2fa0a1ac8f0f8ab0f9a5693fbb68795f0def6fafd3f204112a2006a596ed"
 metafile = true
 
 [[files]]
 file = "mods/Terralith.v2.2.1a.-.Custom.pw.toml"
-hash = "882e86e55eb02c94cb38e101172f2a130b0338cfef3d02f71c55663e058c21a2"
+hash = "3441d2e3a59e4ba2c23fd0360ca0d99941daaec23a56c0870eec5468d739b728"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.forge.mc1.18-1.5.1.pw.toml"
-hash = "f417d80548f16b18a0c9861c602e8a9bafb802457c5ad67c23f47391b7797bea"
+hash = "0b75abb602a193fe342d3496da8272ceb387704927c761981fe711fb0586b5ba"
 metafile = true
 
 [[files]]
@@ -251,8 +251,8 @@ hash = "a843daf1cf0460ebc9e73b7ad003ad0c59707bd44b74c2fca6b4ea7bbc473643"
 metafile = true
 
 [[files]]
-file = "mods/evocation.1.0.0.1.18.2.build3.pw.toml"
-hash = "5f97c41ec56006ebd3271c5264e4e18c729d7c0ff9ec9754d2d7723d6b3aea72"
+file = "mods/evocation_1.0.0_1.18.2_build3.pw.toml"
+hash = "b0cceb9be705d2f263536c4161592d2283eca8b20df6b4155dffb7fe2a3e0973"
 metafile = true
 
 [[files]]
@@ -381,13 +381,8 @@ hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
 metafile = true
 
 [[files]]
-file = "mods/mo.potions.1.4.2.RELEASE+1.18.2MC.pw.toml"
-hash = "07ce86d1edb65493bf3f4fdd75c9573d12892342d58e4c99c2209cd2073c8fb6"
-metafile = true
-
-[[files]]
 file = "mods/mo.potions.1.4.2.RELEASE.1.18.2MC.pw.toml"
-hash = "a136417944ee5b3dd6740ee9f9f2764df6a42506d77170f803c0d1fbadad2d52"
+hash = "293a7edcff9c012d7f2ce03d70bca74786ae9d538b546ebe9dfd26a80139258f"
 metafile = true
 
 [[files]]
@@ -557,12 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/twigs-forge-1.1.4-patch3+1.18.2.pw.toml"
-hash = "ab9486e238382ad1ee947889707394f0d1f4a75bcf03e729e13260c6bb2ad08c"
-metafile = true
-
-[[files]]
-file = "mods/twigs-forge-1.1.4-patch3.1.18.2.pw.toml"
-hash = "a241a833e10af5b6fbe5297381b8d453fe5da54f5c1f4dbd6f99303b6c541e6f"
+hash = "6fedecd1021c82e661954400241045b8afa02e0c9b8a0db672881aac885209ee"
 metafile = true
 
 [[files]]
