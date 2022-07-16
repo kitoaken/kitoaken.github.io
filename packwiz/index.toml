@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/CopperOverhaul_MC1.18.2_v22.07.14re1.pw.toml"
-hash = "ead814edf53c4250ce922a87bb0de82abe9b957298a17bcee4cba9db34453cde"
+hash = "3e9c48d5da36f1e02aa287c3afc8454440d1d85d576ca29bfcfcb0aa84eda80f"
 metafile = true
 
 [[files]]
 file = "mods/Terralith_v2.2.1a_-_Custom.pw.toml"
-hash = "b99d15388bbef8ea162dd0bc49f772048ba2db0dd461087dc4f0727c5c88a8cc"
+hash = "28959d82e8dc48a7b4a99327bf6e03216a6112f0f5db6f7bd19dd20bb30c85ed"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling_forge_mc1.18-1.5.1.pw.toml"
-hash = "6cb9972ec2664c97a12f22dd63ec7bdad0a48a7f87d9987840bbc4ddc69a3d94"
+hash = "88bc049f2fa1d42dd7c4bf6920eec62439ddaa39fe4da2f3bb558b44504a926d"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/evocation_1.0.0_1.18.2_build3.pw.toml"
-hash = "52e602f65a6f47f3da585e8bb7ae2bee8c91b16727eb4f94e8d533be315dc13b"
+hash = "1f13d48d847314ae50753479bfecbe18ebaf85150241bc2827feed1d21ec93f1"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo_potions_1.4.2_RELEASE+1.18.2MC.pw.toml"
-hash = "eb0083f538872775ce641a8caed0115b25e6db5e5704ef907a5300acaa6baf6e"
+hash = "b3f8f89e334098e76716ff79fb6a6469134e96ab4ba1163107dc80c2f6c96f4c"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/twigs-forge-1.1.4-patch3+1.18.2.pw.toml"
-hash = "4b0290fbdf4a943263047184dd00db8d2930ac3109e101357ae22409063ccbbd"
+hash = "396396bdaa164dbf4bfc23d4f2059fa4e5114c563e66fff7398c9dee56be7d43"
 metafile = true
 
 [[files]]
