@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/CopperOverhaul-MC1.18.2-v22.07.14re1.jar"
+hash = "bd03937155826ccf996f5975b293e2cce056a009ae7fb7aca2c83a92d89c82ac"
+
+[[files]]
+file = "mods/Terralith_v2.2.1a - Custom.jar"
+hash = "17f4ddfb2949149144e43737e8010f88a747ccb35d1b8636c880027f0390570d"
+
+[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "3986ffbaaddfb4a97d826e37bbc9a734724074679c7a9fe1ff4de9d0eca2abcb"
 metafile = true
@@ -226,6 +234,10 @@ hash = "7cc35cc276e4cfd8a57ceb365387de7b39a06e917bcf7a8dd585197c0a15bd82"
 metafile = true
 
 [[files]]
+file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
+hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
+
+[[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
 hash = "2b858bd4936bca244724e79cd6491042f69c3bac65f4564b8e0c5040c9a14246"
 metafile = true
@@ -234,6 +246,10 @@ metafile = true
 file = "mods/equipment-compare.pw.toml"
 hash = "a843daf1cf0460ebc9e73b7ad003ad0c59707bd44b74c2fca6b4ea7bbc473643"
 metafile = true
+
+[[files]]
+file = "mods/evocation_1.0.0_1.18.2_build3.jar"
+hash = "7b044fbe2d305e935b769a2402429472cd4b1afdc267be1b791f90a290142cdb"
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
@@ -359,6 +375,10 @@ metafile = true
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
 metafile = true
+
+[[files]]
+file = "mods/mo_potions-1.4.2-RELEASE+1.18.2MC.jar"
+hash = "1c21f2e5ead44624ce6d2cb29a75ce3e5813b69a20024b17df820a97ba93828e"
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
@@ -524,6 +544,10 @@ metafile = true
 file = "mods/too-fast.pw.toml"
 hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
 metafile = true
+
+[[files]]
+file = "mods/twigs-fabric-1.1.3-patch2+1.18.2.jar"
+hash = "d0fa6105da2c6003d585d3361073558c572ca64c7ce733fe5e9c2da8e1841ca9"
 
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
