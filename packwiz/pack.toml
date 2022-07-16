@@ -10,6 +10,3 @@ hash = "097ac4a18863937466277b58cb5f6a062b0ecdca2e967e54b8ae32e63eb9f494"
 [versions]
 forge = "40.1.60"
 minecraft = "1.18.2"
-
-[options]
-no-internal-hashes = true
