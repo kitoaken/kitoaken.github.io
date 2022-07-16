@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Alt-Dimension.pw.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-metafile = true
-
-[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "3986ffbaaddfb4a97d826e37bbc9a734724074679c7a9fe1ff4de9d0eca2abcb"
 metafile = true
