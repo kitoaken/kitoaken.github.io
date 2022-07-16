@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Alt-Dimension.pw.toml"
-hash = "6715d2b399f5174f6b4ac1ffeac9133fc5fdcbac9ff34d94299f74e1ab985cfa"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 metafile = true
 
 [[files]]
