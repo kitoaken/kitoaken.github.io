@@ -501,6 +501,11 @@ hash = "e29523e1e858e44c58d1a512999e632db6213dc806451625bdcc69e8d86b96b1"
 metafile = true
 
 [[files]]
+file = "mods/sons-of-sins.pw.toml"
+hash = "b4b5192a4f50473c2099ffacf71a345369ef79e8d0679721db9d38538a81f8b2"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "971e34abcd3a01b7df13232691aa081cff74027d8f4ecbde41031b4774b86f34"
 metafile = true
