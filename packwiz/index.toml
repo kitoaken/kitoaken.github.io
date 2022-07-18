@@ -575,6 +575,16 @@ hash = "9f157d68b91d5791d5706f7239493bc00d18483d2ca89f164cb06b5dd2c57fc9"
 metafile = true
 
 [[files]]
+file = "mods/weeping-angels-mod.pw.toml"
+hash = "bf869459191d6bf95a18da84779b550e27463aa7fc37e60ec38bc5bf7872dfa9"
+metafile = true
+
+[[files]]
+file = "mods/whisperwoods.pw.toml"
+hash = "50b9879f4a3af956eb04cc29852760e0794d09f45e4ca41f257fd92fdbfee889"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "783a1e6b5f3a756dd9c4aa3ec50338d67a21943dca9ae25bf4c0ee2273015975"
 metafile = true
