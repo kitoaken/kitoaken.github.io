@@ -194,6 +194,11 @@ hash = "ebc7fe70140c268917e096a5aefcdd4981378eef19e1db5a6381ae6e75486aff"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-paintings.pw.toml"
+hash = "2e1937b08916b27c3a5a4976a8240d841d6a3327dee800cbc2983600b958a08c"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "4480257d2c5534c81b026da8f15238ec5f368100f8f6357cdff7ef153e94752c"
 metafile = true
