@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "e29523e1e858e44c58d1a512999e632db6213dc806451625bdcc69e8d86b96b1"
+hash = "58d231643e856de62fd3c4c0250f568b2540ebba2a3d36fcb5b238b293acb0a1"
 metafile = true
 
 [[files]]
