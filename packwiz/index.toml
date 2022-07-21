@@ -5,10 +5,6 @@ file = "mods/CopperOverhaul-MC1.18.2-v22.07.14re1.jar"
 hash = "bd03937155826ccf996f5975b293e2cce056a009ae7fb7aca2c83a92d89c82ac"
 
 [[files]]
-file = "mods/Terralith_v2.2.1a - Custom.jar"
-hash = "17f4ddfb2949149144e43737e8010f88a747ccb35d1b8636c880027f0390570d"
-
-[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "3986ffbaaddfb4a97d826e37bbc9a734724074679c7a9fe1ff4de9d0eca2abcb"
 metafile = true
