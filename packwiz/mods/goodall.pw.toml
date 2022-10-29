@@ -1,0 +1,13 @@
+name = "Goodall"
+filename = "goodall-1.0.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2ececf4269b90d7b62edfcaac219a92bef3b2f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3800466
+project-id = 613215

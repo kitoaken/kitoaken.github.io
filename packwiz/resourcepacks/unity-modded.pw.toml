@@ -1,0 +1,13 @@
+name = "Unity: Modded"
+filename = "Unity-1.18.X-Modded-1.3.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8b1fdd1fb1a2c6ddf4ce45e42bec7e012d03851"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3754927
+project-id = 350590

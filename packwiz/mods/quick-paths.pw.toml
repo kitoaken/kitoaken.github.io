@@ -1,0 +1,13 @@
+name = "Quick Paths (Forge)"
+filename = "quickpaths_1.18.2-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b662bebb612e6d78c63444b8587fe2f54758e03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3669184
+project-id = 382877

@@ -1,13 +1,13 @@
 name = "Create"
-filename = "create-mc1.18.2_v0.5.0c.jar"
+filename = "create-1.18.2-0.5.0.e.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4b01df584e77401ae0b781a8ee03eede5ab31e84"
+hash = "102bd0f5ae1a10b531fb6169709b4ea7ebca6844"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3872145
+file-id = 4007544
 project-id = 328085

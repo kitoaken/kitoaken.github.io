@@ -1,0 +1,13 @@
+name = "Wool Tweaks (Forge)"
+filename = "wooltweaks_1.18.2-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28b05a96d46151fb7e4f07b18a380455be5cc821"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3999910
+project-id = 414111

@@ -1,13 +1,13 @@
 name = "Unity: Dark Edition"
-filename = "Unity-1.18.X-Dark-0.8.1.zip"
+filename = "Unity-1.18.X-Dark-0.9.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "474a2c1f16818723f1beeafb0766d6e43a741444"
+hash = "e38029115fba97c6d26eedbe4f4e19bce8530ebe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3712404
+file-id = 3974163
 project-id = 350660

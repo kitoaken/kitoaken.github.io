@@ -1,0 +1,13 @@
+name = "Unity: PBR Materials (SEUS PTGI)"
+filename = "Unity-1.18.X-PBR-0.5.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fab3fd2fbf66fcb9423d34cc60f54928eac44de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3754924
+project-id = 345344

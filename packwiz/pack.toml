@@ -1,12 +1,12 @@
-name = "Create Forge"
-version = "3.4"
+name = "Create Private"
+author = "squeek502"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c65446a84da77f07159d140de772e893f8404366c2bd48abbc43287908745811"
+hash = "7e19717f40b93fc0c7afe20b4bb0da44b11453c9443552792c9cda0b9b304856"
 
 [versions]
-forge = "40.1.60"
+forge = "40.1.73"
 minecraft = "1.18.2"
