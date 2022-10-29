@@ -1537,7 +1537,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
+hash = "abe171a9d5ab7671485e32c999bafd457477d6563af02c30e4cb1de6ee996b21"
 metafile = true
 
 [[files]]
@@ -1677,7 +1677,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "e691444a46a34f79ef5ce0ab6b5e1b95b09096198505d332eab40315416be102"
+hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
 metafile = true
 
 [[files]]
@@ -1692,7 +1692,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-life-sweet-potato-edition.pw.toml"
-hash = "50a65267aab0902f8fec5edbc31f00872379617213ba3a1f929f6f6a3e5fa1f7"
+hash = "488fd8f9e145cf0abeb23ab11ab4de5d7ca5598a6256735b02461da512151d7b"
 metafile = true
 
 [[files]]

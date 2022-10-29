@@ -1,13 +1,13 @@
 name = "Spice of Life: Sweet Potato Edition"
-filename = "solsweetpotato-1.18.2-2.0.0.jar"
+filename = "solsweetpotato-1.18.2-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b54a0752822de00b24bf9ee18f22b653a62af901"
+hash = "a7a3ca8ee885a56f9cb408288439123c45cd2fbb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3973202
+file-id = 4030253
 project-id = 643106
