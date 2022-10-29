@@ -1,11 +1,11 @@
-name = "Create Private"
+name = "Create Private 0.2"
 author = "squeek502"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7e19717f40b93fc0c7afe20b4bb0da44b11453c9443552792c9cda0b9b304856"
+hash = "129974a02a69c691459ce67cc60523ab7f0e211bca020813a3e4f7c9041c06e7"
 
 [versions]
 forge = "40.1.73"

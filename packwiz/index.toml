@@ -1296,11 +1296,6 @@ hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
 
 [[files]]
-file = "mods/alexs-delight.pw.toml"
-hash = "dfa0f3d9b6f055a559595d30dae85d14a35550b28c92d92285eea98d83cb7652"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
@@ -1463,11 +1458,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
 metafile = true
 
 [[files]]
@@ -1721,11 +1711,6 @@ hash = "cbb93c1c654002435d450c9b837484c7c08042414ea864e36b66f22613081d64"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
-metafile = true
-
-[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
 metafile = true
@@ -1870,7 +1855,3 @@ hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip.txt"
-hash = "5e8bab84e39ff59801905b57282c237383ae417d204135f85f46fe71a123c338"
