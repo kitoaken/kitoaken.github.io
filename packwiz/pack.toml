@@ -1,4 +1,4 @@
-name = "Create Priv"
+name = "Create Bruteforce"
 author = "Alfred"
 version = "0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "76cde69b739bfdfc6c8590224c17f576236fb3f7274cc85d05560079e3397c3e"
+hash = "9f219973ac98f8d24784e5475cb9bcbce7cd803a30415fb630e0f9b509f09efa"
 
 [versions]
 forge = "40.1.73"
