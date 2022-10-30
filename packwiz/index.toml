@@ -53,6 +53,10 @@ file = "mods/Enhanced_Celestials-forge-1.18.2-2.0.7.jar"
 hash = "fcd4813e01fc92dce19f0fe9512b6cc25ba9fb963191399a47a1a7d5379bb559"
 
 [[files]]
+file = "mods/Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
+hash = "4ffd05ae2ec725f0ad10fc6c6186619601ecb1664dec49f5f5038ab9a5faf600"
+
+[[files]]
 file = "mods/Essential-forge_1-18-2.jar"
 hash = "f6e9c4d76ad7fa85282405089d32a07a231e77180a43c15bfe6ae4cd25197bad"
 
@@ -95,6 +99,14 @@ hash = "1cca8ad3597392b8ea7183125541818d20cde56d1f16d2317bcd473ad13a9693"
 [[files]]
 file = "mods/MouseTweaks-forge-mc1.18-2.21.jar"
 hash = "f092cf2bf00d4298ed20fd80718fd20154041e7b39a026870d2773d6ecc23344"
+
+[[files]]
+file = "mods/NekosEnchantedBooks-1.18.2-1.8.0.jar"
+hash = "3d04fc88279b7f4cf33f601344c4b437ec843c99a666e3ce70cc7aaf48d66f3e"
+
+[[files]]
+file = "mods/Paraglider-1.18.2-1.6.0.3.jar"
+hash = "9151c8b05b6768bf697cd18068d777c261f0930e8acf5b8b5a5aadda16bd5ab2"
 
 [[files]]
 file = "mods/PresenceFootsteps-1.18.2-1.5.0-beta2-forge.jar"
@@ -167,6 +179,14 @@ hash = "7edae2633e5ec1737d3cd6ee842d12398000e9a5a0d754773652df01ea572d20"
 [[files]]
 file = "mods/additionaladditions-4.0.5.jar"
 hash = "38ca1a2c48dd2f04fc6fdaf40b6a45f07227869ef7b619c3d9ea253c8c79f781"
+
+[[files]]
+file = "mods/aileron-1.18.2-forge-1.0.0.jar"
+hash = "bb694a620d8f9af36830ece18c391dd4e3818550d8692e27bc1dcf29e5bc969b"
+
+[[files]]
+file = "mods/alexsdelight-1.18.2-1.3.3.jar"
+hash = "9656ac014e821f4ec403be92a3fbbdc8d26debadb34f5a388659d89efb0face3"
 
 [[files]]
 file = "mods/alexsmobs-1.18.6.jar"
@@ -261,6 +281,10 @@ file = "mods/extendedflywheels-1.2.2-1.18.2-0.5.e.jar"
 hash = "7149dbaf09e91e8cc15cfb715f91fe716a8fabe1ea02be68a016ccfd2938d185"
 
 [[files]]
+file = "mods/fantasyfurniture-1.18.2-3.12.0.jar"
+hash = "683a55ef056c65ac0cf3a22875226aca5424cd17a1c2899306a3b59c9369c687"
+
+[[files]]
 file = "mods/feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar"
 hash = "6969fe1c361e5cb7a6b2fd7d9512acf2cf0b3194545615b88626a8b9843f778d"
 
@@ -299,6 +323,10 @@ hash = "82e7dd9c111dd707890c8204d143b493bfec6e9e85f6741af32ae1982f9851d4"
 [[files]]
 file = "mods/jei-1.18.2-9.7.1.255.jar"
 hash = "6aab79017243979d6a991406907c9d023c20e9c74e8c0620467574008b45bf8a"
+
+[[files]]
+file = "mods/kotlinforforge-3.7.1-obf.jar"
+hash = "c2c2b3f7cee1a82e56ceaf4e13a5c3e025fc3b0f0f65e7d9189bff35e3338d28"
 
 [[files]]
 file = "mods/littlecontraptions-forge-1.18.2.1.jar"
@@ -341,6 +369,10 @@ file = "mods/quickpaths_1.18.2-2.0.jar"
 hash = "afe115ad084b34a80dacf8635e283fad7e2edc7e34a5b9cc2bdbc421c64859df"
 
 [[files]]
+file = "mods/radium-0.7.10.jar"
+hash = "9ca8df3493f77714cc7e311d0c980738b680a76266a31abe0bf70ed80ac17ede"
+
+[[files]]
 file = "mods/repurposed_structures_forge-5.1.14+1.18.2.jar"
 hash = "13d158d972d6de6d84c1cc7223f352aeaf6e906fb445a07640526332d76e4773"
 
@@ -361,12 +393,20 @@ file = "mods/selene-1.18.2-1.17.9.jar"
 hash = "71db64a812efdb563f892970499b538fb00bd5f3a884da98a53c32841786a082"
 
 [[files]]
+file = "mods/sliceanddice-1.1.0.jar"
+hash = "06faeca0ae27f83acdd23b9d814aff12a80ee952e6bb80922d821257ebd7f99a"
+
+[[files]]
 file = "mods/solsweetpotato-1.18.2-2.0.0.jar"
 hash = "c5030cd1e12299d692f75fe3695db990e47b3f605fac0e1f29ac50791e0679aa"
 
 [[files]]
 file = "mods/soundphysics-forge-1.18.2-1.0.6.jar"
 hash = "662237063838ec38d863b042121070525feb7897002d1e4cb74749761fe0898a"
+
+[[files]]
+file = "mods/splash_milk-1.18.2-1.2.4.jar"
+hash = "31cdca6c1770c17734d2cbfadcf8273815838b2390e210fad84ef04cdcffcf68"
 
 [[files]]
 file = "mods/stackrefill_1.18.2-3.2.jar"
