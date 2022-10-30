@@ -137,6 +137,10 @@ file = "mods/Serene Seasons-1.18.2-7.0.0.13.jar"
 hash = "dc3e7b2399065a5fbc67c8042243a1af054ea63fdfd3685344a92f4d7b795c66"
 
 [[files]]
+file = "mods/Somnia-Awoken-1.18.2-3.0.99.jar"
+hash = "669ed91795aab43e82a760d34f4d8b0d453009ff776f1b5ea64308685108742f"
+
+[[files]]
 file = "mods/Terralith_v2.2.2.jar"
 hash = "ff51a0a6042152326c86e2679d90aeed25a2f44985a9a8a28659180e131280f2"
 
@@ -269,6 +273,10 @@ file = "mods/doubledoors_1.18.2-3.3.jar"
 hash = "4f2da4c15df17f5cea17a485e9d033cf0c20cf30f83ba395251e6d9da1efba49"
 
 [[files]]
+file = "mods/duckling-1.0.6-forge.jar"
+hash = "eddf2c6fd81ec5fe289e824c8c54aac93546340c456dc11b6e5853f6c61b2add"
+
+[[files]]
 file = "mods/ecologics-forge-1.18.2-1.7.10.jar"
 hash = "791d2f0b3bf89a4e55fbff02e59d2c2324bc48eea4444475c102f4025c10ca46"
 
@@ -323,6 +331,10 @@ hash = "82e7dd9c111dd707890c8204d143b493bfec6e9e85f6741af32ae1982f9851d4"
 [[files]]
 file = "mods/jei-1.18.2-9.7.1.255.jar"
 hash = "6aab79017243979d6a991406907c9d023c20e9c74e8c0620467574008b45bf8a"
+
+[[files]]
+file = "mods/koremods-modlauncher-0.4.10.jar"
+hash = "650351dd32afcb210e2c5904b51a51882f1c12d99ce1011a3d93cb5074b5e7e7"
 
 [[files]]
 file = "mods/kotlinforforge-3.7.1-obf.jar"
@@ -403,6 +415,10 @@ hash = "c5030cd1e12299d692f75fe3695db990e47b3f605fac0e1f29ac50791e0679aa"
 [[files]]
 file = "mods/soundphysics-forge-1.18.2-1.0.6.jar"
 hash = "662237063838ec38d863b042121070525feb7897002d1e4cb74749761fe0898a"
+
+[[files]]
+file = "mods/spiderstpo-1.18.2-2.0.2.jar"
+hash = "d60ce82bda9022daf150f529a708f1a15cec8a7f62d6b0eb4cfa91ad501bdfaa"
 
 [[files]]
 file = "mods/splash_milk-1.18.2-1.2.4.jar"
