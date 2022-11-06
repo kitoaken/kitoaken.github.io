@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/radium.properties"
+hash = "02b044cf83fa4196227d78c7d3ae4202fb38c8e2c140648f36d631b590b9c4e0"
+
+[[files]]
 file = "mods/AI-Improvements-1.18.2-0.5.2.jar"
 hash = "89b85e51e9c18964246ccd9d10a3e5ea2e79dc18b95665586752e6afae7c852a"
 
@@ -241,8 +245,8 @@ file = "mods/cloth-config-6.4.90-forge.jar"
 hash = "b08007a7c0718c5af7e26d883edce4af355b7d237b63b1b5401cc7f3fe37f0cc"
 
 [[files]]
-file = "mods/collective-1.18.2-5.11.jar"
-hash = "febfa8d18b21ccc3144df518ffce892400f24a0d7e12d5120bd790eff45ff02f"
+file = "mods/collective-1.18.2-5.13.jar"
+hash = "47a997ba223b0e92d437d8d731341238569cae8c8f3f4d764dfdd4dbb0eefd8b"
 
 [[files]]
 file = "mods/comforts-forge-1.18.2-5.0.0.5.jar"
@@ -257,8 +261,8 @@ file = "mods/create-1.18.2-0.5.0.e.jar"
 hash = "0d5e6b7bac53656331820315e3cc016c54951ebe2e9a335dcbb6902992d9e140"
 
 [[files]]
-file = "mods/creeperoverhaul-1.18.2-1.3.0-forge.jar"
-hash = "eb758246322722c2da779307920f31ac3cc4efdf3eb041d0a5ea41e5bb37f0ae"
+file = "mods/creeperoverhaul-1.3.1-forge.jar"
+hash = "94c99d78cc6d5e5f0f0d8430113c1e986a5d0f0b8fe752f8112566228d30dcae"
 
 [[files]]
 file = "mods/domesticationinnovation-1.4.2-1.18.2.jar"
@@ -301,8 +305,8 @@ file = "mods/flywheel-forge-1.18.2-0.6.5.jar"
 hash = "90628e4d1b6d20b27fc4c2f6597a7c84531b017b3211d9c1e2ba81b6f2a93866"
 
 [[files]]
-file = "mods/geckolib-forge-1.18-3.0.49.jar"
-hash = "dde9597ebbd49e0d4acace9889a4c40469717b0ee9713e5d45e9d93e9614740b"
+file = "mods/geckolib-forge-1.18-3.0.54.jar"
+hash = "ad129576b217dec28be88536957499b204458a0f2efab344d6651255206dd405"
 
 [[files]]
 file = "mods/goodall-1.0.2-forge.jar"
@@ -445,8 +449,8 @@ file = "mods/supermartijn642corelib-1.0.19-forge-mc1.18.jar"
 hash = "d17f195790cd900f8da963f9f55393bd6c2898485a97488af906f2d7d4ad0a89"
 
 [[files]]
-file = "mods/supplementaries-1.18.2-1.5.12.jar"
-hash = "bb0b0298a38ec1a6bbae1139a6acb3fa87ebce8bd0d45568f4be8778aec28cb3"
+file = "mods/supplementaries-1.18.2-1.5.13.jar"
+hash = "a0f1be4affd3bc32357b7e0ae9ef6344f1e960e0a3baff9bb0764349f124911d"
 
 [[files]]
 file = "mods/theoneprobe-1.18-5.1.2.jar"
