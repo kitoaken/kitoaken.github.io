@@ -197,12 +197,12 @@ file = "mods/alexsmobs-1.18.6.jar"
 hash = "32198d95d5c6caa4346db4f71f6b43a72fb89cd22e1b3df4c745c63e390e4b76"
 
 [[files]]
-file = "mods/alternativeworldsavelocation-fabric_1.18.2-1.9.jar"
-hash = "5c0145dbbb07a493749a6e2314a82672dd13f675df44cd4e6290e3cd1325edc5"
-
-[[files]]
 file = "mods/alternativeworldsavelocation_1.18.2-1.6.jar"
 hash = "439762e564b876f56e4a5a9e8c1c191d468b319c69ddf90d269e9c5e80811f1c"
+
+[[files]]
+file = "mods/alternativeworldsavelocation_1.18.2-1.9.jar"
+hash = "01f51cc0f752880ebbba74d7d1771567a3c8d2ef0a3a940192580b652812c073"
 
 [[files]]
 file = "mods/antiqueatlas-7.0.3-forge-mc1.18.2.jar"
