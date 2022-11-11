@@ -197,8 +197,8 @@ file = "mods/alexsmobs-1.18.6.jar"
 hash = "32198d95d5c6caa4346db4f71f6b43a72fb89cd22e1b3df4c745c63e390e4b76"
 
 [[files]]
-file = "mods/alternativeworldsavelocation_1.18.2-1.9.jar"
-hash = "01f51cc0f752880ebbba74d7d1771567a3c8d2ef0a3a940192580b652812c073"
+file = "mods/alternativeworldsavelocation_1.18.2-1.6.jar"
+hash = "439762e564b876f56e4a5a9e8c1c191d468b319c69ddf90d269e9c5e80811f1c"
 
 [[files]]
 file = "mods/antiqueatlas-7.0.3-forge-mc1.18.2.jar"
@@ -245,8 +245,8 @@ file = "mods/cloth-config-6.4.90-forge.jar"
 hash = "b08007a7c0718c5af7e26d883edce4af355b7d237b63b1b5401cc7f3fe37f0cc"
 
 [[files]]
-file = "mods/collective-1.19.2-5.15.jar"
-hash = "ad77631f6c7307abb2a57978c49cf40a61bacc66ac0deca2bebde04d6b8e6082"
+file = "mods/collective-1.18.2-5.13.jar"
+hash = "47a997ba223b0e92d437d8d731341238569cae8c8f3f4d764dfdd4dbb0eefd8b"
 
 [[files]]
 file = "mods/comforts-forge-1.18.2-5.0.0.5.jar"
