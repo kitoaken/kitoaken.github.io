@@ -245,8 +245,8 @@ file = "mods/cloth-config-6.4.90-forge.jar"
 hash = "b08007a7c0718c5af7e26d883edce4af355b7d237b63b1b5401cc7f3fe37f0cc"
 
 [[files]]
-file = "mods/collective-1.18.2-5.13.jar"
-hash = "47a997ba223b0e92d437d8d731341238569cae8c8f3f4d764dfdd4dbb0eefd8b"
+file = "mods/collective-1.19.2-5.15.jar"
+hash = "ad77631f6c7307abb2a57978c49cf40a61bacc66ac0deca2bebde04d6b8e6082"
 
 [[files]]
 file = "mods/comforts-forge-1.18.2-5.0.0.5.jar"
