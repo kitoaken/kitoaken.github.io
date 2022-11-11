@@ -201,7 +201,7 @@ file = "mods/alternativeworldsavelocation_1.18.2-1.6.jar"
 hash = "439762e564b876f56e4a5a9e8c1c191d468b319c69ddf90d269e9c5e80811f1c"
 
 [[files]]
-file = "mods/alternativeworldsavelocation_1.18.2-1.9.jar"
+file = "mods/alternativeworldsavelocation_1.18.2-1.9.jar.disabled"
 hash = "01f51cc0f752880ebbba74d7d1771567a3c8d2ef0a3a940192580b652812c073"
 
 [[files]]
