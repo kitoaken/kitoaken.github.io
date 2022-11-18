@@ -257,6 +257,10 @@ file = "mods/create-1.18.2-0.5.0.e.jar"
 hash = "0d5e6b7bac53656331820315e3cc016c54951ebe2e9a335dcbb6902992d9e140"
 
 [[files]]
+file = "mods/createbigcannons-1.18.2-beta-0.4.1.jar"
+hash = "fea4e5e0567116c9c049c68e9605de79fabfb043f77274a988fe2901c51f2508"
+
+[[files]]
 file = "mods/creeperoverhaul-1.3.1-forge.jar"
 hash = "94c99d78cc6d5e5f0f0d8430113c1e986a5d0f0b8fe752f8112566228d30dcae"
 
