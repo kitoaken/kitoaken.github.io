@@ -321,6 +321,10 @@ file = "mods/guicompass_1.18.2-2.7.jar"
 hash = "288bfe6703fdfc36f8f9fb5e359e539dde6c3e1f56ecd1dbfa08a42364a72b5b"
 
 [[files]]
+file = "mods/horsestandstill-1.18-1.0.2.jar"
+hash = "fb23a278f8de1edf98dea8e65be4c7ecf88a4079bbd3b14738fa9a61c9ea049a"
+
+[[files]]
 file = "mods/illuminations-forge-1.18.2-1.10.2.19.jar"
 hash = "b74b7a575dc807eb66caf285b4df84bf6aea8f3667ca1d68f4441aebd6c230ac"
 
