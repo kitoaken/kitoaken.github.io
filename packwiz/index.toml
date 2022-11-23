@@ -425,10 +425,6 @@ file = "mods/spark-1.9.11-forge.jar"
 hash = "bb16d0cb0f3c6eba871525e0d8543dda5fb183dffcb6155368f8f3853b0dd873"
 
 [[files]]
-file = "mods/spiderstpo-1.18.2-2.0.2.jar"
-hash = "d60ce82bda9022daf150f529a708f1a15cec8a7f62d6b0eb4cfa91ad501bdfaa"
-
-[[files]]
 file = "mods/splash_milk-1.18.2-1.2.4.jar"
 hash = "31cdca6c1770c17734d2cbfadcf8273815838b2390e210fad84ef04cdcffcf68"
 
