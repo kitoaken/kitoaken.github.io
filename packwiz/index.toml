@@ -421,6 +421,10 @@ file = "mods/soundphysics-forge-1.18.2-1.0.6.jar"
 hash = "662237063838ec38d863b042121070525feb7897002d1e4cb74749761fe0898a"
 
 [[files]]
+file = "mods/spark-1.9.11-forge.jar"
+hash = "bb16d0cb0f3c6eba871525e0d8543dda5fb183dffcb6155368f8f3853b0dd873"
+
+[[files]]
 file = "mods/spiderstpo-1.18.2-2.0.2.jar"
 hash = "d60ce82bda9022daf150f529a708f1a15cec8a7f62d6b0eb4cfa91ad501bdfaa"
 
