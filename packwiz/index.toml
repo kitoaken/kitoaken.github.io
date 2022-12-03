@@ -17,8 +17,8 @@ file = "mods/AutoRegLib-1.7-53.jar"
 hash = "41ece668218c074bf2f30be5883cd90ad1a48dad6537a7fefca720230f688140"
 
 [[files]]
-file = "mods/BetterAdvancements-1.18.2-0.2.1.132.jar"
-hash = "72e1b71903c6289b3d24f63dfcb3099adfa7909f8d3943e453a4f8c14a27dd20"
+file = "mods/BetterAdvancements-1.18.2-0.2.0.146.jar"
+hash = "bbc34adba33f50323d5735c59ebf1efff20eec80ecb5e95643dca6a4406ea220"
 
 [[files]]
 file = "mods/Bookshelf-Forge-1.18.2-13.2.50.jar"
@@ -85,8 +85,8 @@ file = "mods/InsaneLib-1.5.1-mc1.18.2.jar"
 hash = "21132bbe32ad2a3516a1b23f9cf0c121241ca7a14a0d3d1a14a502a1a8fbaafe"
 
 [[files]]
-file = "mods/JustEnoughProfessions-1.18.2-1.2.2.jar"
-hash = "a81fbbe71a900784496433d4e0c1abc15c3a63f9a7bb12d66e1e27995c7f5b15"
+file = "mods/JustEnoughProfessions-1.18.2-1.3.0.jar"
+hash = "6433c9d90a2e6e19d9d79e3b80e3e8f9f19cb0fc8bcf547552cd5321e96e2825"
 
 [[files]]
 file = "mods/JustEnoughResources-1.18.2-0.14.1.171.jar"
@@ -109,8 +109,8 @@ file = "mods/NekosEnchantedBooks-1.18.2-1.8.0.jar"
 hash = "3d04fc88279b7f4cf33f601344c4b437ec843c99a666e3ce70cc7aaf48d66f3e"
 
 [[files]]
-file = "mods/Paraglider-1.18.2-1.6.0.3.jar"
-hash = "9151c8b05b6768bf697cd18068d777c261f0930e8acf5b8b5a5aadda16bd5ab2"
+file = "mods/Paraglider-1.18.2-1.6.0.4.jar"
+hash = "85ebda8adfdad6e2f95847ff886fdc1480c07465b4d21a4f3d9d196ebd96cea1"
 
 [[files]]
 file = "mods/PresenceFootsteps-1.18.2-1.5.0-beta2-forge.jar"
@@ -141,12 +141,12 @@ file = "mods/Serene Seasons-1.18.2-7.0.0.13.jar"
 hash = "dc3e7b2399065a5fbc67c8042243a1af054ea63fdfd3685344a92f4d7b795c66"
 
 [[files]]
-file = "mods/Terralith_v2.2.2.jar"
-hash = "ff51a0a6042152326c86e2679d90aeed25a2f44985a9a8a28659180e131280f2"
+file = "mods/Terralith_v2.2.3.jar"
+hash = "22b72a4bee7ff9970410d29a10f8cf1a90ffbd25087ceaf408f66bab9622ad1d"
 
 [[files]]
-file = "mods/XaerosWorldMap_1.28.1_Forge_1.18.2.jar"
-hash = "dc912ba2510ad3f25e26f894d8cde2762dbbc250551b2825056b840747f4b208"
+file = "mods/XaerosWorldMap_1.28.4_Forge_1.18.2.jar"
+hash = "dbab23143193dcc1d5e9f46f6b076583fd4c0aa11ec44e0fc08357339e520f9e"
 
 [[files]]
 file = "mods/YungsApi-1.18.2-Forge-2.2.6.jar"
@@ -241,8 +241,8 @@ file = "mods/cloth-config-6.4.90-forge.jar"
 hash = "b08007a7c0718c5af7e26d883edce4af355b7d237b63b1b5401cc7f3fe37f0cc"
 
 [[files]]
-file = "mods/collective-1.18.2-5.13.jar"
-hash = "47a997ba223b0e92d437d8d731341238569cae8c8f3f4d764dfdd4dbb0eefd8b"
+file = "mods/collective-1.18.2-5.16.jar"
+hash = "c8b44d3daad453eb327c5d5f5a918af001d2982321a41459e83190bbf7621cf0"
 
 [[files]]
 file = "mods/comforts-forge-1.18.2-5.0.0.5.jar"
@@ -289,24 +289,24 @@ file = "mods/extendedflywheels-1.2.2-1.18.2-0.5.e.jar"
 hash = "7149dbaf09e91e8cc15cfb715f91fe716a8fabe1ea02be68a016ccfd2938d185"
 
 [[files]]
-file = "mods/fantasyfurniture-1.18.2-3.12.0.jar"
-hash = "683a55ef056c65ac0cf3a22875226aca5424cd17a1c2899306a3b59c9369c687"
+file = "mods/fantasyfurniture-1.18.2-3.13.1.jar"
+hash = "c775f80691cf2417fb23e4657b5003e67e5649d1044ad172694627cc82ed9254"
 
 [[files]]
 file = "mods/feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar"
 hash = "6969fe1c361e5cb7a6b2fd7d9512acf2cf0b3194545615b88626a8b9843f778d"
 
 [[files]]
-file = "mods/ferritecore-4.2.1-forge.jar"
-hash = "3d5c82ceaf96292b320e040061b1e07cb12dfee735595078c5e1b7189dc6d01e"
+file = "mods/ferritecore-4.2.2-forge.jar"
+hash = "f8bf79f6eb2e31dc1e347697c18effdc87ac9d1c7e7060c50ffdef3ad41da139"
 
 [[files]]
 file = "mods/flywheel-forge-1.18.2-0.6.5.jar"
 hash = "90628e4d1b6d20b27fc4c2f6597a7c84531b017b3211d9c1e2ba81b6f2a93866"
 
 [[files]]
-file = "mods/geckolib-forge-1.18-3.0.54.jar"
-hash = "ad129576b217dec28be88536957499b204458a0f2efab344d6651255206dd405"
+file = "mods/geckolib-forge-1.18-3.0.56.jar"
+hash = "e0b28d43931b7b84bafcfeab79751098c77792f81cf7c3a6dc2f2b76e55ba6d0"
 
 [[files]]
 file = "mods/goodall-1.0.2-forge.jar"
@@ -369,16 +369,16 @@ file = "mods/nounusedchunks-1.3.jar"
 hash = "e3682ebf61a5cb7c4ba3fa82ea76eea5ea26aa80e6c1a7b2efd84517f066253a"
 
 [[files]]
+file = "mods/oculus-1.4.3.jar"
+hash = "a9493dd445547f19ff4dbdf3a562a8f8c28872c26feed711dc930aef65a302ec"
+
+[[files]]
 file = "mods/oculus-flywheel-compat-1.18.2-0.1.7-BETA.jar"
 hash = "118cd35975ba81748f792e2975fea02d4178c686d8519681a4b9c25e0ab4fad7"
 
 [[files]]
-file = "mods/oculus-mc1.18.2-1.2.5a.jar"
-hash = "516078a60807411bb7e1765a6796711ff1dd6db6d5e0f34376e366f12f63435f"
-
-[[files]]
-file = "mods/polymorph-forge-1.18.2-0.45.jar"
-hash = "3fb49f88c8ee86bab2475893ad26ee1509a58c623d8b7d7d41c8aa93d8bf18a3"
+file = "mods/polymorph-forge-1.18.2-0.46.jar"
+hash = "8cb345667708e7653a562c6696096a980f2661c4f6bc365a6ee2ddf56d4012b5"
 
 [[files]]
 file = "mods/quickpaths_1.18.2-2.0.jar"
